@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a520b1ac-f330-461c-bcab-149241768a0f" name="Default Changelist" comment="" />
+    <list default="true" id="a520b1ac-f330-461c-bcab-149241768a0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/templates/groups/group_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/groups/templates/groups/group_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/templates/groups/group_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/groups/templates/groups/group_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/groups/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/groups/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/post_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/templates/posts/post_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_clone/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_clone/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_clone/templates/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_clone/templates/thanks.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gOqG6AKtjMz3yQj49ihKV9tIn2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -86,6 +103,7 @@
       <updated>1597995887230</updated>
       <workItem from="1597995889078" duration="38196000" />
       <workItem from="1598293868288" duration="6685000" />
+      <workItem from="1598461032929" duration="3749000" />
     </task>
     <servers />
   </component>

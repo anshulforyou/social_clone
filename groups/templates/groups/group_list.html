@@ -12,7 +12,9 @@
         </div>
         {% if user.is_authenticated %}
 
-        <a href="{% url 'groups:create' slug=group.slug %}" class="btn btn-lg">Create Group</a>
+{#        <a href="{% url 'groups:create' slug=group.slug %}" class="btn btn-lg">Create Group</a>#}
+        <a href="{% url 'groups:create' %}" class="btn btn-lg">Create Group</a>
+
         {% endif %}
     </div>
 {% endblock %}
